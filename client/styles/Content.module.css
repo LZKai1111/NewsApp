@@ -1,0 +1,14 @@
+.container {
+    display: inline-block;
+    flex-direction: row;
+    /* background-color: grey; */
+    width: 1350px;
+  }
+
+  .left {
+    float: left;
+  }
+
+  .right {
+    float: right
+  }

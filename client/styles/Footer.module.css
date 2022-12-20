@@ -1,0 +1,51 @@
+.cotainer {
+    margin-top: 10rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #016ba8;
+    color: white;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    margin-top: 1rem;
+    
+}
+
+.content {
+    text-align: center;
+    padding: 5px 0 5px 0;
+}
+
+.iconList {
+    margin: auto;
+    margin-top: 3rem;
+    align-items: center;
+}
+
+.icon {
+    font-size:2rem;
+    margin: 0 5px 0 5px;
+}
+
+
+
+.column {
+    float: left;
+    width: 33.33%;
+    text-align: center;
+}
+
+.row:after {
+    align-items: center;
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+
+

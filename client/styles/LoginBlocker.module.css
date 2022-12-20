@@ -1,0 +1,25 @@
+.overlay {
+    width: 600px;
+    height: 400px;
+    margin-top: -200px;
+    margin-left: -300px;
+    object-fit: cover;
+    position: fixed;
+    left: 50%;
+    right: 50%;
+    top: 50%;
+    z-index: 1  ;
+    background-color: #5C5696;
+    border: 20px;
+    border-radius: 25px;
+}
+
+.text {
+    color: white;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}

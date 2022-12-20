@@ -1,0 +1,12 @@
+.container {
+    object-fit: cover;
+    margin-bottom: 20rem;
+}
+
+.image {
+    width: 800px;
+}
+
+.content {
+    inline-size: 800px;
+}
